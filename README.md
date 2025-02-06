@@ -45,11 +45,11 @@ The feedforward neural network used in this project is designed to predict stude
 
 ### **3. Hyperparameter Tuning**
 
-Different learning rates tested: 0.1, 0.01, 0.001.
+- Different learning rates tested: 0.1, 0.01, 0.001.
 
-Different epochs tested: 100, 500, 1000.
+- Different epochs tested: 100, 500, 1000.
 
-Found that lower learning rates resulted in better convergence and higher stability in loss function behavior.
+*Found that lower learning rates resulted in better convergence and higher stability in loss function behavior.*
 
 ---
 
