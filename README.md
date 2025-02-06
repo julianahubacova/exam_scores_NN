@@ -55,21 +55,17 @@ The feedforward neural network used in this project is designed to predict stude
 
 ### **4. Results**
 
-The final model achieves stable loss convergence.
+- The final model achieves stable loss convergence.
 
-Tuning hyperparameters helped reduce fluctuations in the learning process.
+- Tuning hyperparameters helped reduce fluctuations in the learning process.
 
-Predictions closely align with actual exam scores.
+- Predictions closely align with actual exam scores.
 
 ---
 
 ### **5. Future Improvements**
 
-Experiment with different architectures (e.g., additional layers or neurons).
-
-Implement dropout to prevent overfitting.
-
-Try alternative activation functions and optimizers.
+Experiment with different architectures (e.g., additional layers or neurons), implement dropout to prevent overfitting, try alternative activation functions and optimizers.
 
 ---
 
